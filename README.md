@@ -1,3 +1,3 @@
-# Human-Activity-Recignition-Project
+# Human-Activity-Recognition-Project
 
 Developed a robust Human Activity Recognition (HAR) system, integrating hardware components and machine learning techniques to track and analyze physical activities like sitting, standing, and walking. The project utilized the MPU6050 accelerometer and Arduino Uno for real-time data collection, with data processed using Python scripts. The WISDM dataset was employed to train and validate a Random Forest model, achieving 95% accuracy. A frontend interface, built with HTML, CSS, and JavaScript, enables users to upload data and view activity predictions interactively. This project demonstrates the potential of integrating hardware and software solutions to combat sedentary lifestyles and promote health awareness.
